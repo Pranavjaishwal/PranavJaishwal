@@ -81,9 +81,9 @@
 ### Top Repositories
 
 
-<a href="https://github.com/said7388/developer-portfolio">
+<a href="https://github.com/Pranavjaishwal/Deepfake-detection-using-Deep-Learning-.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
+<a href="https://github.com/Pranavjaishwal/wonder-lust.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
 </a>
