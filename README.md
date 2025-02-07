@@ -54,7 +54,7 @@
 
 ---
 
-### My Github Stats:
+<!--### My Github Stats:
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
@@ -75,7 +75,7 @@
 
 <a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
 
----
+----->
 
 
 ### Top Repositories
